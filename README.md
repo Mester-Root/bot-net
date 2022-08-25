@@ -41,3 +41,11 @@ chat_id : str = ''                                      #..<<
 ```
 
 ابزاری قدیمی از طرف من
+
+____________________________________
+[![Python 3|3.9|3.x](https://img.shields.io/badge/python-3|3.0|3.x-yellow.svg)](https://www.python.org/)
+
+[![creator: ](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ANTIweak)
+
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/creator_ryson)
+***____________________________________***
