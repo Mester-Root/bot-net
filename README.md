@@ -1,5 +1,5 @@
 # bot-net
-# # botnet or bot net for ddos and geting target.
+## botnet or bot net for ddos and geting target.
 
 a bot net for ddos with target users!
 یک دیداسر با استفاده از تارگت های این ابزار و زامبی ها!
