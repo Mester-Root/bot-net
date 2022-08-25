@@ -8,14 +8,19 @@ ___________________________
 # ***مراحل اجرا***:
 
 - بزودی یک ورژن جدیدش میاد که از پایروگرام استفاده میکنه و خودکار به سرور وصل میشه تا برای ایرانی ها به مشکلی نخوره
--سورس کاملا ساده ای داره و به همین علت پابلیک شد
--  از لاین ۸۸ تا ۱۰۱ رو تغییر بدید داخل سورس مشخص شده چه چیز هایی رو قرار بدید
+-سورس کاملا ساده ای داره و به همین علت پابلیک شد.
+-  از لاین ۸۸ تا ۱۰۱ رو تغییر بدید داخل سورس مشخص شده چه چیز هایی رو قرار بدید.
+-  برای زامبی گرفتن و تار زدن بعد از تکمیل مشخصات به exe تغییر بدید فایل رو.
 
 # ***for run:***
 
-- soon a new version will come, different and more advanced, using the pyrogram library
-- source is open and public is do not premium
--in source line 88 to 101
+- soon a new version will come, different and more advanced, using the pyrogram library!
+- source is open and public is do not premium.
+- in source line 88 to 101.
+- edit format to exe for geting target and exploiting to startup target !
+
+
+_______________________________
 
 
 # ***for use edited source line:***
@@ -40,6 +45,16 @@ chat_id : str = ''                                      #..<<
 # برای دانایی بیشتر فایل help-bot-net را مشاهده فرمایید !
 ```
 
+# ***run for test:***
+_______________________________
+
+```bash
+sudo apt-get install python3```
+
+```bash
+sudo python3 bot-net.py```
+
+_______________________________
 ابزاری قدیمی از طرف من
 
  ________________________________________________________________________
