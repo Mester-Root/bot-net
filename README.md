@@ -48,7 +48,7 @@ chat_id : str = ''                                      #..<<
 # ***run for test:***
 _______________________________
 
-```sh
+```command
 sudo apt-get install python3
 ```
 
