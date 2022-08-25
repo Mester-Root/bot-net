@@ -18,8 +18,9 @@ ___________________________
 - ***soon a new version will come, different and more advanced, using the pyrogram library!***
 - ***source is open and public is do not premium.***
 - ***in source line 88 to 101.***
-- ***edit ```python format
-- ``` to `exe` for geting target and exploiting to startup target !***
+- ***edit ```python 
+format
+``` to `exe` for geting target and exploiting to startup target !***
 
 
 _______________________________
