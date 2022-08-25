@@ -1,4 +1,4 @@
-# bot-net
+# bot-net - old script me ...
 ## botnet or bot net for ddos and geting target.
 
 a bot net for ddos with target users!
@@ -40,4 +40,4 @@ chat_id : str = ''                                      #..<<
 # برای دانایی بیشتر فایل help-bot-net را مشاهده فرمایید !
 ```
 
-
+ابزاری قدیمی از طرف من
